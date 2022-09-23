@@ -10,7 +10,7 @@ function Header() {
                   <img src={profileImage} alt="Logo"  height="67" width="200"/>
                 </div>
                 <div className="col-md-6 d-flex justify-content-end">
-                    <span className="h1 m-0">CyberMark Coding Standards</span>
+                    <span className="h1 m-0">CyberMark Website Services</span>
                 </div>
             </div>
         </div>

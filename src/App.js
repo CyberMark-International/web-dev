@@ -20,7 +20,7 @@ import Launch from './pages/launch';
   
 function App() {
 return (
-    <Router>
+    <Router basename={'/web-dev'}>
     <Header />
     <div className='main'>
       <div className='container'>

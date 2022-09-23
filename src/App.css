@@ -10,6 +10,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+a {
+  color: #0079FE
+}
 /*Typography*/
 code {
   display: block;
@@ -49,6 +52,7 @@ header {
 }
 
 /*Body*/
+
 .border-left {
   border-left: 1px solid #DDD;
 }
@@ -68,4 +72,9 @@ pre[class*="language-"] {
 }
 .main_content {
   padding: 2em .5em;
+}
+
+/*Footer*/
+footer {
+  background-color: #150c43;
 }

@@ -27,7 +27,7 @@ function Navigation() {
                             <div className="collapse" id="github-collapse">
                                 <ul className="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                                     <li>
-                                        <Link className="nav-link" to="/github">Overview</Link>
+                                        <Link className="nav-link" to="github">Overview</Link>
                                     </li>
                                     <li>
                                         <Link className="nav-link" to="/github#install">Installation</Link>
